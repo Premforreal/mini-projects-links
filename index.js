@@ -5,20 +5,7 @@ const createAnchorElement = obj => {
     const a = document.createElement('a');
     a.textContent = obj.title;
     a.href = `${obj.link}`;
-  
-    if (obj.link === '#') {
-      a.classList.add('disabled');
-      a.title = 'To be developed';
-      a.href = '#';
-    }
-  
-    if (obj.isNew) {
-      const newTag = document.createElement('span');
-      newTag.textContent = 'New';
-      newTag.classList.add('new');
-      div.appendChild(newTag);
-    }
-  
+
     div.appendChild(a);
     return div;
   };
