@@ -16,5 +16,6 @@
         { title: 'Blurry Loading Page', link: 'https://premforreal.github.io/frontend-mini-challenges/5.%20Blurry%20Loading%20Page/index.html' },
         { title: 'Scrolling Animation', link: 'https://premforreal.github.io/frontend-mini-challenges/6.%20Scrolling%20Animation/index.html' },
         { title: 'Form Wave Animation', link: 'https://premforreal.github.io/frontend-mini-challenges/8.%20Form%20Wave%20Animation/index.html' },
-        { title: 'Guess The Number', link: 'https://premforreal.github.io/frontend-mini-challenges/Guess%20The%20Number/index.html'},    
+        { title: 'Guess The Number', link: 'https://premforreal.github.io/frontend-mini-challenges/Guess%20The%20Number/index.html'},
+         { title: 'Star Rating', link: 'https://premforreal.github.io/frontend-mini-challenges/star%20rating/index.html'},
     ];
